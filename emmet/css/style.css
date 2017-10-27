@@ -1,5 +1,5 @@
 html{
-	background: linear-gradient(#FFFFFF, #F30909);
+	background: linear-gradient(#03CFFB, #99A0A1);
 	height: 100vh;
 }
 body{
@@ -7,7 +7,7 @@ body{
 }
 
 h2{
-	background-color: #FFFFFF;
+	background-color: #14694E;
 	color: #33EF07;
 	text-align: center;
 	font-size: 1.4em;
@@ -17,14 +17,14 @@ h2{
 	width: 400px
 }
 section{
-	background-color: #F30909;
+	background-color: #4BDAC1;
 	margin: 20px auto;
 	padding: 20px;
 	width: 400px;
 }
 
 section div{
-	border: 1px solid #F30909;
+	border: 1px solid #0E9DF7;
 	padding: 10px;
 	margin-bottom: 4px;
 }
