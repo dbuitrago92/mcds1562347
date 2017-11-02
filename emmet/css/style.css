@@ -3,7 +3,7 @@ html{
 	height: 100vh;
 }
 body{
-	font: 16px Arial;
+	font: 12px Arial;
 }
 
 h2{
@@ -14,13 +14,13 @@ h2{
 	font-weight: normal;
 	margin: 0px auto;
 	padding: 10px;
-	width: 400px
+	width: 1300px
 }
 section{
 	background-color: #4BDAC1;
 	margin: 20px auto;
 	padding: 20px;
-	width: 400px;
+	width: 1300px;
 }
 
 section div{
